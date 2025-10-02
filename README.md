@@ -1,3 +1,14 @@
+## Sobre Mi
+- Estudiante Avanzado de Licenciatura en Sistemas — Universidad Nacional de Lanús
+- Desarrollador Backend
+
+- ✉️ Email: [lucadelavia@gmail.com](mailto:lucadelavia@gmail.com)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/lucadelavia  
+- 💻 Portafolio web: https://lucadelavia-portfolio.vercel.app  
+- 📍 Ubicación: Buenos Aires, Argentina  
+
+---
+
 ## Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -23,10 +34,3 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 </p>
-
-- Estudiante Avanzado de Licenciatura en Sistemas — Universidad Nacional de Lanús
-
-- ✉️ Email: [lucadelavia@gmail.com](mailto:lucadelavia@gmail.com)  
-- 🔗 LinkedIn: https://www.linkedin.com/in/lucadelavia  
-- 💻 Portafolio web: https://lucadelavia-portfolio.vercel.app  
-- 📍 Ubicación: Buenos Aires, Argentina  
