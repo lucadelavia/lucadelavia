@@ -1,7 +1,6 @@
 ## Sobre Mí
 
-**Backend Developer** con experiencia en Java, Python. 
-Estudiante avanzado de la **Licenciatura en Sistemas** (Universidad Nacional de Lanús)
+**Backend Developer** @ Leafnoise con experiencia en Java, Python - Estudiante avanzado de la **Licenciatura en Sistemas** (Universidad Nacional de Lanús)
 
 - ✉️ **Email:** [lucadelavia@gmail.com](mailto:lucadelavia@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/lucadelavia](https://www.linkedin.com/in/lucadelavia)
@@ -34,15 +33,3 @@ Estudiante avanzado de la **Licenciatura en Sistemas** (Universidad Nacional de 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Herramientas
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## Proyectos Destacados
-
-📌 Revisá mis **repositorios pinned** abajo para ver mis proyectos más representativos en Java, Spring Boot y desarrollo backend.
